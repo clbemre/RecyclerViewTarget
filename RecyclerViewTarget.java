@@ -9,7 +9,7 @@ import android.view.View;
 
 public class RecyclerViewTarget {
 
-    RecyclerView recyclerView;
+    private RecyclerView recyclerView;
     private int offsetX;
     private int offsetY;
 
