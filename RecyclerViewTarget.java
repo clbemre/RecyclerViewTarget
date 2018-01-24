@@ -4,7 +4,7 @@ import android.view.View;
 
 
 /**
- * Created by Emre CELEBÝ on 12.09.2017. cLB
+ * Created by Emre CELEBI on 12.09.2017. cLB
  */
 
 public class RecyclerViewTarget {
